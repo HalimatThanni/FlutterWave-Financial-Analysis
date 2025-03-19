@@ -1,4 +1,4 @@
-# FlutterWave-Financial-Analysis
+# Imagio-Financial-Analysis
 <img src="Intro-Image.jpg" width="1000">
 
 ## Introduction
